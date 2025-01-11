@@ -1,0 +1,24 @@
+﻿make,Model,Year,Mileage,Engine,Fuel,Transmission,Selling_Price,Holding_Time(Week),Buying_Price,Number in Stock
+BMW,1 Series 118d,2013,"60,800",2.0L,Diesel,Manual,"£5,399 ",2,3450,2
+BMW,X1,2014,"65,700",2.0L,Diesel,Manual,"£6,100 ",2,4600,3
+BMW,X1,2010,"78,500",2.0L,Diesel,Automatic,"£5,995 ",1,4500,1
+Dacia,Sandero,2014,"56,200",0.9L,Petrol,Manual,3995,3,2100,3
+Ford,Fiesta Titanium,2015,"74,000",1.0L,Petrol,Manual,"£5,100 ",2,3500,1
+Ford,Fiesta Titanium,2015,"67,800",1.0L,Petrol,Manual,"£5,299 ",1,4050,1
+Ford,Fiesta Zetec,2014,"49,500",1.0L,Petrol,Manual,"£5,499 ",0,3759,2
+Ford,Fiesta Zetec,2014,"43,400",1.0L,Petrol,Manual,"£5,699 ",3,3700,1
+Ford,Focus,2018,"54,300",1.5L,Diesel,Manual,"£10,499 ",4,8145,4
+Ford,Focus,2018,"72,130",1.0L,Petrol,Manual,6899,1,4599,1
+Mercedes-Benz,A-Class,2020,"38,000",1.5L,Diesel,Automatic,"£14,250 ",1,11540,1
+Mercedes-Benz,C-Class,2013,"64,100",2.1L,Diesel,Automatic,7199,1,5030,1
+Mercedes-Benz,E-Class,2014,"65,200",2.1L,Diesel,Automatic,"£8,995 ",0,6899,2
+Mini,Hatch Cooper D Pimlico,2011,"66,000",1.6L,Diesel,Manual,"£4,399 ",0,3189,2
+Nissan,Juke Acenta,2013,"62,000",1.6L,Petrol,Manual,"£4,699 ",0,2879,3
+Nissan,Juke N-Connecta DIG-T,2017,"47,700",1.2L,Petrol,Manual,7299,2,5590,1
+Nissan,Qashqai N-Connecta DIG-T,2016,"55,900",1.2L,Petrol,Manual,"£8,399 ",3,6100,2
+Vauxhall,Astra,2016,"68,600",1.6L,Diesel,Manual,"£6,299 ",2,4050,2
+Vauxhall,Corsa,2009,"104,050",1.6L,Petrol,Manual,"£1,995 ",4,500,3
+Volkswagen,Golf Match TDI BlueMotion Technology,2015,"73,800",1.6L,Diesel,Manual,"£7,599 ",3,5700,1
+Volkswagen,Golf SE TSI BlueMotion Technology DSG,2013,"70,000",1.4L,Petrol,Automatic,"£6,899 ",2,4500,2
+Volkswagen,Polo Match,2012,"76,600",1.2L,Petrol,Manual,"£4,799 ",2,2150,3
+Volkswagen,Polo S AC,2010,"35,600",1.2L,Petrol,Manual,"£5,199 ",3,3100,1

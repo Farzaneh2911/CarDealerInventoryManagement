@@ -1,0 +1,40 @@
+Model,Month,Demand_Index,Price_Trend,Competitor_Activity,Season
+1 Series 118d,2023-01,85,0,1,Summer
+X1,2023-01,90,1,0,Winter
+Sandero,2023-01,70,-1,1,Winter
+Fiesta Titanium,2023-01,75,0,0,Summer
+Fiesta Zetec,2023-01,78,-1,1,Winter
+Focus,2023-01,82,0,0,Winter
+A-Class,2023-01,95,1,1,Winter
+C-Class,2023-01,80,0,1,Spring
+E-Class,2023-01,88,1,0,Winter
+Hatch Cooper D Pimlico,2023-01,68,-1,1,Spring
+Juke Acenta,2023-01,70,0,1,Winter
+Juke N-Connecta DIG-T,2023-01,72,1,0,Winter
+Qashqai N-Connecta DIG-T,2023-01,75,1,1,Winter
+Astra,2023-01,68,0,1,Winter
+Corsa,2023-01,62,-1,0,Summer
+Golf Match TDI BlueMotion Technology,2023-01,80,0,1,Winter
+Golf SE TSI BlueMotion Technology DSG,2023-01,79,1,0,Winter
+Polo Match,2023-01,70,-1,1,Winter
+Polo S AC,2023-01,72,0,0,Winter
+1 Series 118d,2023-02,87,1,1,Summer
+X1,2023-02,92,2,0,Winter
+Sandero,2023-02,68,-1,1,Winter
+Fiesta Titanium,2023-02,74,0,0,Summer
+Fiesta Zetec,2023-02,79,-1,1,Winter
+Focus,2023-02,83,1,0,Winter
+A-Class,2023-02,97,1,1,Winter
+C-Class,2023-02,81,0,1,Summer
+E-Class,2023-02,89,1,0,Winter
+Hatch Cooper D Pimlico,2023-02,69,-1,1,Winter
+Juke Acenta,2023-02,71,0,1,Spring
+Juke N-Connecta DIG-T,2023-02,73,1,0,Winter
+Qashqai N-Connecta DIG-T,2023-02,76,1,1,Spring
+Astra,2023-02,69,0,1,Winter
+Corsa,2023-02,63,-1,0,Winter
+Golf Match TDI BlueMotion Technology,2023-02,81,0,1,Winter
+Golf SE TSI BlueMotion Technology DSG,2023-02,80,1,0,Summer
+Polo Match,2023-02,71,-1,1,Winter
+Polo S AC,2023-02,73,0,0,Winter
+
